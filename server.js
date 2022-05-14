@@ -22,7 +22,7 @@ app.use(function(req, res, next){
     next();
 });
 
-app.use(express.static("../static"));
+app.use(express.static("./static"));
 
 app.listen(81, function(){
     console.log("Serving static on 81");

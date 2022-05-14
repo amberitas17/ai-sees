@@ -1,8 +1,8 @@
 // Dynamic Properties
 
 // You must use complete paths for the following properties
-const modelPath = "assets"; // This is the path to the model folder that you downloaded from Custom Vision
-const imagePath = "images/IMG_2687.JPG"; // This is the path to the image you want to classify
+const modelPath = "static"; // This is the path to the model folder that you downloaded from Custom Vision
+const imagePath = "images/IMG_2675.JPG"; // This is the path to the image you want to classify
 const exportImagePath = "images/IMG_2675(1).JPG"; // This is a path to a non exist file that will be used to store the output/overlay image
 const LabelColors = { // This is a dictionary of colors for labels that will be used to generate the overlay image
 	"DEFAULT": "rgba(0, 0, 0, 0.5)",
