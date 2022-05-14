@@ -10,7 +10,7 @@ How to run the Server using NODE
 
 How to get the TFJS Model via Azure Custom Vision:
 1. We get the datasets in the Azure Custom Vision
-image.png
+![Image of datasets](image.png)
 
 2. We label the datasets from having dent and scratches
 image.png
